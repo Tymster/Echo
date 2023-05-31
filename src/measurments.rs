@@ -1,0 +1,4 @@
+enum Balls {
+    Volume,
+    SHC,
+}
